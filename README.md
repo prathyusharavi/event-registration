@@ -106,14 +106,17 @@ document.getElementById('page3').style.display = 'block';
 
 
 ## OUTPUT:
-```
 HOMEPAGE:
+
 ![image](https://github.com/prathyusharavi/event-registration/assets/147474424/adcad8e1-6cac-4c65-aa21-d329fa710e1c)
+
 LOGIN PAGE:
+
 ![image](https://github.com/prathyusharavi/event-registration/assets/147474424/f1f7c1d6-bd78-4a08-a6b5-d5e8a874881f)
+
 SEC PAGE:
+
 ![image](https://github.com/prathyusharavi/event-registration/assets/147474424/af899214-4e66-4868-94f9-b3d12079e6c4)
-```
 
 
 ## Result: 
